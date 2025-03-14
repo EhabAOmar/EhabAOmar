@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ehab Omar, @EhabAOmar
 - 👀 I’m interested in network automation and python
 - 🌱 I’m currently working on many network automation projects
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Python, FastAPI framework, Network automation and scripting.
 - 📫 How to reach me, ehab.a.omar@gmail.com
 
 <!---
